@@ -1,0 +1,36 @@
+# License
+
+## Source Code
+
+All source code contained in this repository (`src/` directory) is the
+**intellectual property of Anthropic, PBC**.
+
+The source code was obtained through exposed source map files in npm packages
+publicly accessible as of March 31, 2026.
+
+**You may NOT:**
+- Use the source code for commercial purposes
+- Redistribute the source code as your own
+- Claim ownership or imply affiliation with Anthropic
+- Use in any product or service competing with Anthropic
+
+## Documentation & Analysis
+
+Documentation files (`docs/`, `reports/`, `CODEMAP-*.md`) are provided
+**as-is for educational and defensive security research purposes only**.
+
+## Research Disclaimer
+
+This repository is maintained by an unaffiliated researcher for:
+
+- Educational research
+- Defensive security research
+- Software supply chain risk analysis
+- Understanding Agentic CLI architecture
+
+This project is **NOT affiliated with, endorsed by, or connected to**
+Anthropic, PBC in any way.
+
+---
+
+*For Claude Code official product, visit: https://claude.ai/code*
